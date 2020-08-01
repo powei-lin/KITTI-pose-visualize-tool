@@ -10,7 +10,8 @@ This is a simple tool for visualising camera poses from [KITTI dataset][src]. ã€
 * tqdm
 * matplotlib
 * pytransform3d
-* pillow (for export gif)
+* pillow (for exporting gif)
+* ffmpeg (for exporting video)
 
 ## Usage: 
     python3 showPose.py
